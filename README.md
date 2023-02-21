@@ -17,3 +17,6 @@ Configure your DNS: Set up your DNS records to route traffic to your load balanc
 Test and optimize: Once your web application is deployed, test it thoroughly to ensure it is working as expected, and optimize it for performance and scalability.
 
 Implement security best practices: Implement best practices for securing your web application, such as using SSL certificates, network security groups, and IAM roles.
+
+
+![image](https://user-images.githubusercontent.com/43084357/220470153-afcb9490-6deb-4e09-9215-377e1b1b7827.png)
